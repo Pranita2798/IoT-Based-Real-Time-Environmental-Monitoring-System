@@ -248,12 +248,6 @@ npm run test:sheets-api
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Support
-
-For support and questions:
-- Create an issue in this repository
-- Email: support@iot-monitoring.com
-- Documentation: [Wiki](https://github.com/username/iot-monitoring/wiki)
 
 ## Roadmap
 
@@ -270,5 +264,3 @@ For support and questions:
 - [ ] Enterprise integrations
 
 ---
-
-**Built with ❤️ for Industrial IoT Applications**
