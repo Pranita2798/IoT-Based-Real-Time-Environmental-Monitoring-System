@@ -1,5 +1,5 @@
 # IoT-Based Real-Time Environmental Monitoring System
-
+Real-time humidity and temperature monitoring with Arduino and DHT sensors, logging to Google Sheets for live dashboards and anomaly tracking. Designed to scale toward industrial deployment.
 ## Overview
 
 A comprehensive real-time environmental monitoring system that combines Arduino hardware with DHT sensors for precise temperature and humidity measurements. The system features cloud logging capabilities via Google Sheets integration, providing live dashboard access and advanced anomaly tracking suitable for industrial applications.
